@@ -1,0 +1,2 @@
+meegotouch-theme-socam
+======================
