@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-MeeGoTouch-Metatheme
+Name=SOCAM
+Encoding=UTF-8
+
+[X-MeeGoTouch-Metatheme]
+X-Inherits=base
+X-Icon = "icon-l-meegotouchtheme-socam"
+X-Visible=true
+X-Libraries=meegotouchviews
