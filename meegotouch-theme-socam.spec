@@ -12,7 +12,7 @@ Summary:    SOCAM theme
 Version:    0.0.1
 Release:    1
 Group:      System/GUI/Other
-License:    BSD
+License:    LGPLv2.1
 URL:        https://github.com/xxx
 Source:    %{name}-%{version}.tar.bz2
 Provides:   meegotouch-theme-socam
